@@ -15,5 +15,5 @@ node_modules/
 npm-debug.log*
 
 # Local junk
-uploads/
-*.log
+# uploads/
+# *.log
